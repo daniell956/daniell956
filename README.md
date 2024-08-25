@@ -1,6 +1,6 @@
 ## Hi! I am Daniel  🖐️
 
-![daniell956 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniell956&show_icons=true&theme=dracula&count_private=true)
+![daniell956 GitHub stats](https://github-readme-stats.vercel.app/api?username=daniell956&show_icons=true&theme=soft&count_private=true)
 
 ## Tecnologias:
 
